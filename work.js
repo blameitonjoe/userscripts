@@ -1,1 +1,1 @@
-document.onload(e => alert('hello'))
+alert('hello')
